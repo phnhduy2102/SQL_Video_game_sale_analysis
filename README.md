@@ -14,7 +14,7 @@ The dataset was obtained from the [Kaggle Sales Of Video Games](https://www.kagg
 | Other_Sales    | Sales of the game in other regions  | Float      |
 | Global_Sales    | Total sales of the game worldwide   | Float    |
 ## Approach Used
-**1. Data cleaning:** This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.\\
+**1. Data cleaning:** This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.  
 **2. Data analysis:** Data analysis is done to answer the listed questions:
 1. Which platform has the highest sales?
 2. What is the most common platform for the top 10 best-selling games?
